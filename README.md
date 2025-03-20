@@ -3,6 +3,7 @@
 * This repository is meant to demonstrate simple features of Git & Markdown.# git-test-batch9-repo01
 Just a simple repo to demonstrate some git &amp; Markdown basic to some students
 
+<<<<<<< HEAD
 ## subheading level 2
 ### subheading level 3
 #### subheading level 4
@@ -44,3 +45,10 @@ Markdown supports a number of subheading levels for its documents.
  1. '1 '
  1. for
  1. everything
+=======
+## Subheading level 2
+### Subheading level 3
+#### Subheading level 4
+
+Markdown supports several levels subheadings for its documents. 
+>>>>>>> 522680cb2e734f273c69dff2bc33e1f5ec8ba855
