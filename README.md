@@ -1,4 +1,6 @@
-# git-test-batch9-repo01
+# git & Markdown practice repo
+
+* This repository is meant to demonstrate simple features of Git & Markdown.# git-test-batch9-repo01
 Just a simple repo to demonstrate some git &amp; Markdown basic to some students
 
 ## subheading level 2
