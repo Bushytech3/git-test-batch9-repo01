@@ -50,3 +50,12 @@ Markdown supports a number of subheading levels for its documents.
 #### Subheading level 4
 
 Markdown supports several levels subheadings for its documents. 
+ ## Text Formatting 
+  
+  Markdown Supports a number of text fromation options:
+  * **Bold**
+  * *Italics*
+  * <s>Strikethrough</s>
+  * Codeblocks:
+  * '''python3 -n pip install pandas '''
+  
