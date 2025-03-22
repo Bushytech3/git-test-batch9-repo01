@@ -59,3 +59,10 @@ Markdown supports several levels subheadings for its documents.
   * Codeblocks:
   * '''python3 -n pip install pandas '''
   
+
+   ## Links
+   Markdown supports various links:
+  * External link - [Google]{https://google.com}
+  * Local Link to s [file](.dir/sample_file.py)
+  * Anchor Links - [Subheading Link](#subheading-level-2)
+
