@@ -2,7 +2,7 @@
 
 * This repository is meant to demonstrate simple features of Git & Markdown.# git-test-batch9-repo01
 Just a simple repo to demonstrate some git &amp; Markdown basic to some students
-
+fjgdggfhifhihujgjhvjgv
 <<<<<<< HEAD
 ## subheading level 2
 ### subheading level 3
@@ -65,11 +65,4 @@ Markdown supports several levels subheadings for its documents.
   * External link - [Google]{https://google.com}
   * Local Link to s [file](.dir/sample_file.py)
   * Anchor Links - [Subheading Link](#subheading-level-2)
-
-
- ### Images
-
- Markdown can empbed images into your documents by using links
- * ![Dog image](https://post.bark.co/wp-content/uploads/2022/05/iStock-1223511966.jpg)
-
 
