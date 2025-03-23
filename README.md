@@ -66,3 +66,8 @@ Markdown supports several levels subheadings for its documents.
   * Local Link to s [file](.dir/sample_file.py)
   * Anchor Links - [Subheading Link](#subheading-level-2)
 
+
+  ### Images
+ 
+  Markdown can empbed images into your documents by using links
+  * ![Dog image](https://post.bark.co/wp-content/uploads/2022/05/iStock-1223511966.jpg)
