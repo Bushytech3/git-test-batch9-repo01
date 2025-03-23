@@ -1,7 +1,7 @@
 # git & Markdown practice repo
 
-* This repository is meant to demonstrate simple features of Git & Markdown to some students.# git-test-batch9-repo01
-Just a simple repo to demonstrate some git &amp; Markdown be4asic to some students
+* This repository is meant to demonstrate simple features of Git & Markdown.# git-test-batch9-repo01
+Just a simple repo to demonstrate some git &amp; Markdown basic to some students
 fjgdggfhifhihujgjhvjgv
 <<<<<<< HEAD
 ## subheading level 2
@@ -14,14 +14,9 @@ Markdown supports a number of subheading levels for its documents.
  
  ### Unordered Lists
 
- * Markdown   
- * supports
- * unordered
- * Lists
- * by
- * using 
- * star
- * symbol
+ * Markdown supports unordered Lists
+ * by using 
+ * star symbol
 
  - or
  - using
@@ -30,21 +25,13 @@ Markdown supports a number of subheading levels for its documents.
 
  ### ordered Lists
 
- 1. Markdown
- 2. supports
- 3. ordered
- 4. lists
- 5. by
- 6. using
- 7. number
+ 1. Markdown supports ordered lists
+ 2. by using number
 
 
- 1. Or
- 1. by 
- 1. using
- 1. '1 '
- 1. for
- 1. everything
+ 1. Or by using '1 ' for everything
+
+
 ## Subheading level 2
 ### Subheading level 3
 #### Subheading level 4
