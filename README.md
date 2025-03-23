@@ -36,7 +36,7 @@ Markdown supports a number of subheading levels for its documents.
 ### Subheading level 3
 #### Subheading level 4
 
-Markdown supports several levels subheadings for its documents. 
+Markdown supports several levels subheadings for its documents. By using a variable number of '#' symbols.
  ## Text Formatting 
   
   Markdown Supports a number of text fromation options:
